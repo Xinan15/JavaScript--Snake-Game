@@ -1,0 +1,28 @@
+body {
+    font-family: 'Bruno Ace', cursive;
+  }
+
+#snakeboard {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-family: 'Bruno Ace', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Montserrat', sans-serif;
+    color: lightblue;
+    text-align: center;
+    font-size: 40px;
+}
+
+#score {
+    font-family: 'Bruno Ace', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Montserrat', sans-serif;
+    color: lightsalmon;
+    text-align: center;
+    font-size: 40px;
+}
